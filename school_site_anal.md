@@ -22,7 +22,7 @@ Even though it has already proved to be a great success, here are a few areas wh
 - **Live Chat Support**: The Addition of a live chat feature would provide instant support to prospective students having specific questions or need guidance on their application. Real-time support will satisfy users and save much time which students could have taken to search for that information.
 - **Student Testimonials and Success Stories**: More of the student's testimonials and success stories shall be included which help the prospective students to obtain some insight into what the experience has been for any student or alumni. This can help them evaluate the quality of education and support services offered under APUS.
 - **Improved GUI**:
-Instead of a tree filtered degree plan finder, I personally would prefer components rendered and filtered via common svg type logos. Components would be data card type object. when opened an infinite scroll page with floating header that provides information, pictures, carreer information, real world application examples of knowledge etc.
+Instead of a tree filtered degree plan finder, I personally would prefer components rendered and filtered via common svg type logos. Components would be data card type object. when opened an infinite scrollable page with a floating header that provides information, pictures, carreer information, real world application examples of knowledge etc.
 
 ## Conclusion
 
